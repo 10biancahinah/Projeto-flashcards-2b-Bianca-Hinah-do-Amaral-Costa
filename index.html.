@@ -1,0 +1,60 @@
+// FlashCards sobre Estética
+criaCartao(
+    'Estética Facial',
+    'O que é peeling químico?',
+    'É um procedimento que utiliza ácidos para renovar a camada superficial da pele, promovendo a descamação e renovação celular.'
+);
+
+criaCartao(
+    'Depilação',
+    'Quais os tipos de depilação mais comuns?',
+    'Cera quente, cera fria, linha, laser e depilação elétrica (eletrólise).'
+);
+
+criaCartao(
+    'Massoterapia',
+    'Quais os benefícios da massagem relaxante?',
+    'Alívio do estresse, redução da tensão muscular, melhora da circulação sanguínea e promoção do bem-estar geral.'
+);
+
+criaCartao(
+    'Podologia Estética',
+    'O que é um spa dos pés?',
+    'Um tratamento completo que inclui limpeza, hidratação, esfoliação e esmaltação profissional dos pés.'
+);
+
+criaCartao(
+    'Tratamentos Corporais',
+    'Como funciona a drenagem linfática?',
+    'É uma massagem suave que estimula o sistema linfático, ajudando na eliminação de toxinas e redução de inchaços.'
+);
+
+criaCartao(
+    'Maquiagem Profissional',
+    'O que é maquiagem airbrush?',
+    'Técnica que utiliza um aerógrafo para aplicar a maquiagem, proporcionando um acabamento uniforme e de longa duração.'
+);
+
+criaCartao(
+    'Terapia Capilar',
+    'O que é carboxiterapia capilar?',
+    'Procedimento que aplica gás carbônico no couro cabeludo para melhorar a circulação e estimular o crescimento dos fios.'
+);
+
+criaCartao(
+    'Design de Sobrancelhas',
+    'Qual a diferença entre henna e micropigmentação?',
+    'Henna é um corante temporário (dura cerca de 15 dias), enquanto micropigmentação é um procedimento semipermanente (dura 1-2 anos).'
+);
+
+criaCartao(
+    'Estética Masculina',
+    'O que é barboterapia?',
+    'Tratamento completo para barba que inclui limpeza, esfoliação, hidratação e finalização com produtos específicos.'
+);
+
+criaCartao(
+    'Estética Oncológica',
+    'Quais cuidados estéticos são indicados durante o tratamento oncológico?',
+    'Hidratação intensiva, maquiagem corretiva, cuidados com unhas frágeis e massagens suaves para alívio de dores.'
+);
